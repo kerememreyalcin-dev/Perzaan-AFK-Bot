@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "Verity™",
   "bot-account": {
     "username": "Verity™",
     "password": "",
@@ -31,8 +31,8 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "Hello I'm Verity™",
+        "Im your personal afk bot"
       ]
     },
     "chat-log": true,
